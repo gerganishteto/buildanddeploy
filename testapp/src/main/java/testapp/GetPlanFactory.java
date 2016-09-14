@@ -1,6 +1,6 @@
 package testapp;
 
-class GetPlanFactory {
+public class GetPlanFactory {
 
 	// use getPlan method to get object of type Plan
 	public Plan getPlan(String planType) {
