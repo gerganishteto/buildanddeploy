@@ -15,5 +15,5 @@ public class GetPlanFactory {
 			return new InstitutionalPlan();
 		}
 		return null;
-	}
+	} 
 }

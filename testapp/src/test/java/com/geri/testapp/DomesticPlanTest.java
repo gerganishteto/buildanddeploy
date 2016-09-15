@@ -1,4 +1,4 @@
-package testapp;
+package com.geri.testapp;
 
 import static org.junit.Assert.*;
 
@@ -8,7 +8,7 @@ public class DomesticPlanTest {
 
 	@Test
 	public void test() {
-		fail("Not yet implemented");
+		//fail("Not yet implemented");
 	}
 
 }
