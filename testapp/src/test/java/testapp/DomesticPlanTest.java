@@ -1,4 +1,4 @@
-package com.geri.testapp;
+package testapp;
 
 import static org.junit.Assert.*;
 
