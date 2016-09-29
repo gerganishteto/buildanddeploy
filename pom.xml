@@ -7,7 +7,7 @@
     <groupId>com.geri</groupId>
     <artifactId>simple-parent</artifactId>
     <packaging>pom</packaging>
-    <version>1.0</version>
+    <version>0.0.1-SNAPSHOT</version>
     <name>Multi Simple Parent Project</name>
 
     <modules>
@@ -26,7 +26,7 @@
                         <target>1.5</target>
                     </configuration>
                 </plugin>
-            </plugins>
+			</plugins>
         </pluginManagement>
     </build>
 
